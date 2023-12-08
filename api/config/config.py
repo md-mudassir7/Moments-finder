@@ -22,7 +22,7 @@ class Settings(BaseSettings):
     
     shorts: str = "shorts"
     
-    openapi_key: str = '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'
+    openapi_key: str = ''
 
     @classmethod
     def get_settings(cls):

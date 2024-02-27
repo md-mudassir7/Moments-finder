@@ -4,7 +4,7 @@ from api.database.database import DbConnection , DbCrud
 from highlight_generator.prompter import Prompter
 from utility.logger import get_logger
 router = APIRouter(
-    prefix="/api/v1/shorts",
+    prefix="/api/v1/analyze",
     tags=["shorts"],
     responses={404: {"description": "Not found"}},
 )

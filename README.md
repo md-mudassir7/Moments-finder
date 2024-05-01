@@ -1,7 +1,7 @@
-# Video Transcript Analyzer
+# Moments finder
 
-The Video Transcript Analyzer is a web application that analyzes video transcripts stored in a MongoDB database. It exposes an API that accepts a genre as input and returns the scene with the highest confidence where the genre is depicted in the transcript. The application is built using Python's FastAPI framework and leverages OpenAI's prompt to generate responses.
-
+1. Developed a cutting-edge moments finder tool capable  of identifying thematic segments within media content. 
+2. Leveraged advanced techniques including speech transcription and GPT-powered sentiment analysis to achieve accurate results
 
 # Installation
 
